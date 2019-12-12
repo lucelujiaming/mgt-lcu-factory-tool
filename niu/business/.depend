@@ -1,0 +1,16 @@
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/business/niu_csv.o: niu_csv.c
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/business/niu_cjson.o: \
+ niu_cjson.c /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/cJSON.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_cjson.h
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/business/niu_curl.o: \
+ niu_curl.c \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/curl/curl.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/curl/curlver.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/curl/system.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/curl/easy.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/curl/multi.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/curl/curl.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/curl/urlapi.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/curl/typecheck-gcc.h
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/business/niu_test_procedure.o: \
+ niu_test_procedure.c

@@ -1,0 +1,2 @@
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/lib/cjson/cJSON.o: cJSON.c \
+ cJSON.h

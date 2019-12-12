@@ -1,0 +1,6 @@
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/main.o: main.c \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/cJSON.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_cjson.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_uart.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_cmd.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_gpio_config.h

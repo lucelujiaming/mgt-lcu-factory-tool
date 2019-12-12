@@ -1,0 +1,10 @@
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/commfunc/niu_uart.o: \
+ niu_uart.c \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_uart.h
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/commfunc/niu_gpio_config.o: \
+ niu_gpio_config.c \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_cmd.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_gpio_config.h
+/home/raspberrypi/mgt_lcu_factory_tool2/niu/commfunc/niu_cmd.o: niu_cmd.c \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_cmd.h \
+ /home/raspberrypi/mgt_lcu_factory_tool2/niu/include/niu_gpio_config.h
